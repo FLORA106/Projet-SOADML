@@ -1,4 +1,4 @@
-# SOADML
+# Projet SOADML
 Projet Stochastic Optimization and Automatic Differentiation for Machine Learning (ENSAE)
 
 
